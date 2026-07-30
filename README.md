@@ -29,15 +29,3 @@ Shira Events is a simple and elegant HTML-based event management website created
 🛠️ Technologies Used
 
 - HTML5
-
-📁 Project Structure
-
-- index.html
-- Registration.html
-- images/
- 🚀 Future Improvements
-
-- Add CSS for modern styling
-- Add JavaScript for form validation
-- Make the website responsive
-- Add
